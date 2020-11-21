@@ -1,1 +1,1 @@
-# apnastore_images
+Images related to ApnaStores platform
